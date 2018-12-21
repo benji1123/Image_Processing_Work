@@ -1,11 +1,11 @@
 # Image_Processing_Work
-A photo-coder's repo of scripts he's keyboarded to achieve the ultimate aesthetic.
+Create a spectrum of HSV photos from 1 original.
 
-![original](kaori/kaori.jpg)
-![original](kaori/out3.jpg)
-![original](kaori/out4.jpg)
-![original](kaori/out5.jpg)
-![original](kaori/out6.jpg)
-![original](kaori/out7.jpg)
-![original](kaori/out8.jpg)
-![original](kaori/out9.jpg)
+![original](hsv_river/kaori/kaori.jpg)
+![original](hsv_river/kaori/out3.jpg)
+![original](hsv_river/kaori/out4.jpg)
+![original](hsv_river/kaori/out5.jpg)
+![original](hsv_river/kaori/out6.jpg)
+![original](hsv_river/kaori/out7.jpg)
+![original](hsv_river/kaori/out8.jpg)
+![original](hsv_river/kaori/out9.jpg)
