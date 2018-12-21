@@ -1,4 +1,4 @@
-# Image_Processing_Work
+# HSV River
 A spectrum of HSV photos created from 1 original.
 
 ![original](hsv_river/kaori/kaori.jpg)
