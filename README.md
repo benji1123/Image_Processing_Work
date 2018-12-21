@@ -1,11 +1,22 @@
 # Image_Processing_Work
-Create a spectrum of HSV photos from 1 original.
+A spectrum of HSV photos created from 1 original.
 
 ![original](hsv_river/kaori/kaori.jpg)
-![original](hsv_river/kaori/out3.jpg)
 ![original](hsv_river/kaori/out4.jpg)
-![original](hsv_river/kaori/out5.jpg)
 ![original](hsv_river/kaori/out6.jpg)
-![original](hsv_river/kaori/out7.jpg)
 ![original](hsv_river/kaori/out8.jpg)
 ![original](hsv_river/kaori/out9.jpg)
+![original](hsv_river/kaori/out10.jpg)
+![original](hsv_river/kaori/out11.jpg)
+![original](hsv_river/kaori/out12.jpg)
+![original](hsv_river/kaori/out14.jpg)
+![original](hsv_river/kaori/out16.jpg)
+![original](hsv_river/kaori/out17.jpg)
+![original](hsv_river/kaori/out18.jpg)
+![original](hsv_river/kaori/out19.jpg)
+![original](hsv_river/kaori/out20.jpg)
+![original](hsv_river/kaori/out21.jpg)
+![original](hsv_river/kaori/out22.jpg)
+![original](hsv_river/kaori/out23.jpg)
+![original](hsv_river/kaori/out24.jpg)
+![original](hsv_river/kaori/out29.jpg)
