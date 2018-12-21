@@ -6,6 +6,6 @@ A spectrum of HSV photos created from 1 original.
 ![original](hsv_river/kaori/out14.jpg)
 
 
-![original](regression/kaori/regression.jpg)
-![original](regression/kaori/out9.jpg)
-![original](regression/kaori/out14.jpg)
+![original](hsv_river/regression/regression.jpg)
+![original](hsv_river/regression/out9.jpg)
+![original](hsv_river/regression/out14.jpg)
